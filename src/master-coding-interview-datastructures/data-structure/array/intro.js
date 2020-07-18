@@ -1,3 +1,10 @@
+/**
+ * search: O(n)
+ * lookup: O(1)
+ * push:   O(1)
+ * insert: O(n)
+ * delete: O(n)
+ */
 let days = ["monday", "tuesday", "webnesday", "thursday"];
 
 // Access array member:
